@@ -1,6 +1,6 @@
 # java
 Lan Yangyang's Java Learning Journey
-##   java-basic-practice
+##   java-basic
 Lan Yangyang's Java Learning Journey
 Java beginner practice reference: Han Shunping and Qiangshen's Java exercise problems
 ### 📚 Covered Topics  

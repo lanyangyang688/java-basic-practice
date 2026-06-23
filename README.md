@@ -24,6 +24,6 @@ Java beginner practice reference: Han Shunping and Qiangshen's Java exercise pro
 1. Clone this repository to your local machine  
 2. Open the project root directory in IDEA  
 3. Right-click the target `.java` file → `Run 'Main'` 
-#### Method 2: Compile and Run via Command Line ```bash
+#### Method 2: Compile and Run via Command Line
 Compile all code and output to the bin folder javac -d bin src/**/*.java
 ## Execute a specified class (example) java -cp bin hsp-hanshunping.array-practice.BubbleSort

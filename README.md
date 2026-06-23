@@ -9,7 +9,7 @@ Java beginner practice reference: Han Shunping and Qiangshen's Java exercise pro
 ### 2. Crazy God Talks Java  
 - Reinforce Java basics and syntax  
 - Fundamental logic and introductory object-oriented practice 
-### 3. XJTLU CPT105 University Course  
+### 3. Exam paper  
 - In-class synchronized basic coding exercises  
 - Complete implementation of the final comprehensive project, including integrated logic, multi-class collaboration, and advanced array applications 
 ## 🛠 Runtime Environment  

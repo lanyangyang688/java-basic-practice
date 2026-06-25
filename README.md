@@ -17,11 +17,11 @@ Java beginner practice reference: Han Shunping and kuangshen's Java exercise pro
 ##   java-stage-two
 
 ### 📚 Covered Topics
-#### Abstract Class
+#### 1.Abstract Class
 - Definition and usage rules of abstract classes and abstract methods
 - Characteristics: cannot be instantiated, subclasses must implement abstract methods
 - Template-oriented object-oriented design practice
-#### Interface (java-stage-two-interface)
+#### 2.Interface (java-stage-two-interface)
 - Interface definition and implementation rules
 - Interface constants, abstract methods, Java8 default/static methods
 - Multi-implementation and multi-interface inheritance

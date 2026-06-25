@@ -20,8 +20,7 @@ Java beginner practice reference: Han Shunping and kuangshen's Java exercise pro
 Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP features, enumerations, annotations, exceptions, wrapper classes and collection framework.
 
 ### 📚 Covered Topics
-### Chapter1
-Advanced Object-Oriented Programming
+### Chapter1 Advanced Object-Oriented Programming
 #### 1.Abstract Class
 - Definition and usage rules of abstract classes and abstract methods
 - Characteristics: cannot be instantiated, subclasses must implement abstract methods
@@ -34,21 +33,17 @@ Advanced Object-Oriented Programming
 #### 3.Code Block
 #### 4.Inner Class
 
-### Chapter2
-Enums and Annotations
+### Chapter2 Enums and Annotations
 #### 1.Enum
 #### 2.Annotation
 #### 3.Exercise
 
-### Chapter3
-Exception
+### Chapter3 Exception
 
-### Chapter4
-Common Class
+### Chapter4 Common Class
 #### 1.Wrapper Class
 
-### Chapter5
-Collection
+### Chapter5 Collection
 #### 1.
 
 ##   java-stage-three

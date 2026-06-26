@@ -31,7 +31,17 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 - Multi-implementation and multi-interface inheritance
 - Comparison and scene selection of abstract class & interface
 #### 3.Code Block
+- Classification of code blocks: local code block, instance code block, static code block, synchronized code block
+- Syntax writing & execution timing of each type of code block
+- Execution order rule: static code block → instance code block → constructor → local code block
+- Core functions & application scenarios of each code block
+- Interview focus: static code block loading order under parent-child inheritance
 #### 4.Inner Class
+- Classification of inner classes: member inner class, static inner class, local inner class, anonymous inner class
+- Access rules between outer class and inner class (mutual access of private members)
+- Instantiation syntax of different inner classes
+- Anonymous inner class: common usage with interfaces/abstract classes
+-. Application scenarios & memory structure features of inner classes
 
 ### Chapter2 Enums and Annotations
 #### 1.Enum

@@ -45,8 +45,23 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 
 ### Chapter2 Enums,Annotations and Reflection
 #### 1.Enum
+- Definition characteristics & basic syntax of enumeration class
+- Common methods of Enum: values(), valueOf(), ordinal()
+- Differences between enum and ordinary constant class
+- Application scenarios: state management, type limitation, parameter constraint
+- Interview focus: enum singleton implementation principle
 #### 2.Annotation
+- Classification of annotations: marker annotation, single-value annotation, full annotation
+- Four meta-annotations: @Target, @Retention, @Documented, @Inherited
+- Custom annotation writing & parsing logic
+- Built-in core annotations: @Override, @Deprecated, @SuppressWarnings
+- Application scenarios: framework markup, parameter verification, code generation
 #### 3.Reflection
+- Core reflection entry class: Class, three ways to get Class object
+- Reflection operation: constructors, member variables, member methods
+- Access private members by reflection, turn off access check
+- Advantages & disadvantages of reflection
+- Application scenarios: Spring IoC, ORM mapping, framework bottom layer
 #### 4.Exercise
 
 ### Chapter3 Exception
@@ -55,7 +70,6 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 #### 1.Wrapper Class
 
 ### Chapter5 Collection
-#### 1.
 
 ##   java-stage-three
 

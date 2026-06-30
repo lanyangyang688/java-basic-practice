@@ -16,6 +16,7 @@ Java beginner practice reference: Han Shunping and kuangshen's Java exercise pro
 #### 3. Exam paper  
 - In-class synchronized basic coding exercises  
 - Complete implementation of the final comprehensive project, including integrated logic, multi-class collaboration, and advanced array applications
+
 ##   java-stage-two
 Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP features, enumerations, annotations, exceptions, wrapper classes and collection framework.
 
@@ -45,25 +46,25 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 #### 5.Exercise
 
 ### Chapter2 Enums And Annotations
-#### 1.Enum
+#### 1.Exception
+
+#### 2.Enum
 - Definition characteristics & basic syntax of enumeration class
 - Common methods of Enum: values(), valueOf(), ordinal()
 - Differences between enum and ordinary constant class
 - Application scenarios: state management, type limitation, parameter constraint
 - Interview focus: enum singleton implementation principle
-#### 2.Annotation
+#### 3.Annotation
 - Classification of annotations: marker annotation, single-value annotation, full annotation
 - Four meta-annotations: @Target, @Retention, @Documented, @Inherited
 - Custom annotation writing & parsing logic
 - Built-in core annotations: @Override, @Deprecated, @SuppressWarnings
 - Application scenarios: framework markup, parameter verification, code generation
 
-### Chapter3 Exception
-
-### Chapter4 Common Class
+### Chapter3 Common Class
 #### 1.Wrapper Class
 
-### Chapter5 Collection
+### Chapter4 Collection
 
 ##   java-stage-three
 #### 1.Reflection

@@ -45,7 +45,7 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 - Application scenarios & memory structure features of inner classes
 #### 5.Exercise
 
-### Chapter2 Enums And Annotations
+### Chapter2 Exception,Enum And Annotations
 #### 1.Exception
 - Classification & system hierarchy: Throwable root, split into Error, Checked Exception, Unchecked(Runtime) Exception
 - Core syntax & keywords: try-catch-finally, throws, throw, try-with-resources

@@ -47,7 +47,13 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 
 ### Chapter2 Enums And Annotations
 #### 1.Exception
-
+- Classification & system hierarchy: Throwable root, split into Error, Checked Exception, Unchecked(Runtime) Exception
+- Core syntax & keywords: try-catch-finally, throws, throw, try-with-resources
+- Common methods of Throwable: getMessage(), printStackTrace(), getCause(), fillInStackTrace()
+- Differences between checked & unchecked exceptions, typical common exception cases (NullPointerException, IndexOutOfBoundsException, IOException etc.)
+- Custom exception definition & usage rules
+- Application scenarios: business error signaling, fault isolation, log & alert reporting, parameter validation
+- Interview focus: finally execution order & return trap, exception chaining, catch broad exception anti-pattern, exception performance overhead
 #### 2.Enum
 - Definition characteristics & basic syntax of enumeration class
 - Common methods of Enum: values(), valueOf(), ordinal()

@@ -42,6 +42,7 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 - Instantiation syntax of different inner classes
 - Anonymous inner class: common usage with interfaces/abstract classes
 - Application scenarios & memory structure features of inner classes
+#### 5.Exercise
 
 ### Chapter2 Enums And Annotations
 #### 1.Enum

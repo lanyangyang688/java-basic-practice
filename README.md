@@ -79,7 +79,7 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 #### 3. Math
 - Static math utility class (cannot instantiate)
 - Core: abs, max/min, random, round, pow; constants PI, E
-#### 4. Date & Time (Date/Calendar/LocalDate)
+#### 4. Date & Time
 - Date: Timestamp record, awkward API, unsafe
 - Calendar: Manual date field adjustment, complex
 - JDK8 LocalDate/LocalDateTime: Immutable, thread-safe, clean API, recommended

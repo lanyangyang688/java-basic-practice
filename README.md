@@ -69,7 +69,7 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 #### 4.Exercise
 
 ### Chapter3 Common Class
-#### 1.Wrapper Class
+#### 1.Wrapper
 - Wrap 8 primitive types into reference types, support autoboxing & unboxing
 - Enable collection storage, provide type conversion/parsing methods; Integer cache range -128~127
 #### 2. String / StringBuffer / StringBuilder

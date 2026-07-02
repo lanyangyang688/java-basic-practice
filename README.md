@@ -95,6 +95,29 @@ Java Advanced Object-Oriented & Core Fundamental Practice, covering advanced OOP
 #### 8.Exercise
 
 ### Chapter4 Collection
+#### 1.Collection
+- Java container for storing multiple objects, different from array
+- Array: fixed length, supports primitive & reference types
+- Collection: variable length, only stores reference types
+- Root interface of single-column collections, defines universal CRUD methods
+- Two traversal ways: Iterator, enhanced for-loop
+- Two main sub-interfaces: List, Set
+#### 2.Collections
+- Static tool class for all Collection subclasses
+- Core methods: sort(), binarySearch(), reverse(), shuffle(), synchronizedList() etc.
+- Provides thread-safe conversion methods for unsynchronized collections
+#### 3.List
+- Features: ordered storage, duplicate elements allowed, supports index access
+- ArrayList: underlying dynamic array, fast query, slow middle add/remove, non-thread-safe, most commonly used
+- Vector: array-based, synchronized methods(thread-safe), low performance, outdated
+- LinkedList: underlying double linked list, slow random query, fast head/tail add & delete
+#### 4.Set
+- Features: unordered storage, duplicate elements forbidden, no index
+- HashSet: based on HashMap hash table, deduplicate via hashCode() + equals(), non-thread-safe
+#### 5.Map
+- Double-column collection, stores key-value pairs
+- Keys are unique, values allow duplication
+- Separated branch from Collection interface, unrelated to single-column collection system
 
 ##   java-stage-three
 #### 1.Reflection
